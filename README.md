@@ -5,6 +5,8 @@ This repository contains  Jupyter notebooks for agentic AI. It is developed in w
 # agentic-ai-demo Setps to setup the initial environment for windows machine
 
 # Step1 : Create Virtual enviornment
+
+```bash
 python -m venv agenticai_venv
 
 # Step2 : Activate Virtual environment
